@@ -1,0 +1,15 @@
+{
+    "brim_type": "no_brim",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "name": "0.20mm Standard @BBL X1C - Ugo Reddit Supports",
+    "print_settings_id": "0.20mm Standard @BBL X1C - Ugo Reddit Supports",
+    "sparse_infill_pattern": "gyroid",
+    "support_critical_regions_only": "1",
+    "support_object_xy_distance": "0.65",
+    "support_top_z_distance": "0.4",
+    "support_type": "tree(auto)",
+    "version": "1.5.0.19",
+    "wall_sequence": "outer wall/inner wall"
+}

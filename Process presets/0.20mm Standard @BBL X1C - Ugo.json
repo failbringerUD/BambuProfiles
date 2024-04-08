@@ -1,0 +1,10 @@
+{
+    "brim_object_gap": "0",
+    "brim_type": "brim_ears",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "name": "0.20mm Standard @BBL X1C - Ugo",
+    "print_settings_id": "0.20mm Standard @BBL X1C - Ugo",
+    "version": "1.5.0.19",
+    "wall_sequence": "outer wall/inner wall"
+}

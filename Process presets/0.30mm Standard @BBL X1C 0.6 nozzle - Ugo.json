@@ -1,0 +1,11 @@
+{
+    "brim_type": "no_brim",
+    "elefant_foot_compensation": "0.15",
+    "from": "User",
+    "inherits": "0.30mm Standard @BBL X1C 0.6 nozzle",
+    "initial_layer_line_width": "0.75",
+    "name": "0.30mm Standard @BBL X1C 0.6 nozzle - Ugo",
+    "print_settings_id": "0.30mm Standard @BBL X1C 0.6 nozzle - Ugo",
+    "version": "1.7.0.25",
+    "wall_sequence": "outer wall/inner wall"
+}
